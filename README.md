@@ -28,7 +28,10 @@ Weight=1300).Print the predicted value.
 
 
 ## Program:
-```
+### Developed by:Annie jenifsika.A
+### Register number:24004077
+
+
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("C:\\Users\\admin\\Downloads\\car.csv")
